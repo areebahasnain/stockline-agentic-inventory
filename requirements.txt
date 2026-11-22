@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+langgraph
+fastapi
+uvicorn
+pytest
+httpx
+anthropic   # optional: LLM-written briefing (set ANTHROPIC_API_KEY)
